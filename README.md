@@ -53,19 +53,13 @@ Models were evaluated using:
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Error (MAE)
 - R² Score
+<img width="300" height="192" alt="Screenshot 2026-02-22 at 6 15 55 PM" src="https://github.com/user-attachments/assets/c17f906b-1b07-45b9-885d-766598b6fb62" />
 
 ---
 
 ## Results
+
 The best performing model was selected based on lowest error metrics.
-
-## Simulation Output Tables
-
-### Dataset Table
-![Dataset Table](images/table_results.png)
-
-### Simulation Results
-![Simulation Output](images/simulation_output.png)
 
 ---
 
