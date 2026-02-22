@@ -56,7 +56,10 @@ Models were evaluated using:
 <img width="400" height="192" alt="Screenshot 2026-02-22 at 6 15 55 PM" src="https://github.com/user-attachments/assets/c17f906b-1b07-45b9-885d-766598b6fb62" />
 
 ---
+##plot
+<img width="400" height="530" alt="Screenshot 2026-02-22 at 6 22 01 PM" src="https://github.com/user-attachments/assets/1979290a-f29a-4a4f-bfca-717f70032b6c" />
 
+---
 ## Results
 
 The best performing model was selected based on lowest error metrics.
