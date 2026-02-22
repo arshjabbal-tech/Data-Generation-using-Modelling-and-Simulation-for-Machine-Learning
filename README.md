@@ -75,3 +75,8 @@ The best performing model was selected based on lowest error metrics.
 - Google Colab
 
 ---
+## License
+
+© 2026 Arshdeep Kaur
+
+This reopsitory is licensed under MIT License. See LICENSE for details.
